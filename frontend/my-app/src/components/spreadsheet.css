@@ -1,0 +1,32 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+input {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+td {
+    padding: 0;
+    text-align: center;
+    min-width: 100px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    min-width: 100px;
+    border: 1px solid darkblue;
+    border-collapse: collapse;
+}
+
+.sheets {
+    position: absolute;
+    width: 100%;
+    overflow: scroll;
+    height: 1000px;
+}
+
