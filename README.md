@@ -1,4 +1,4 @@
-# fa21-cs242-project
+# DataWorkbench
 
 ### Introduction
 This project is made for python programmers work with sql database.
